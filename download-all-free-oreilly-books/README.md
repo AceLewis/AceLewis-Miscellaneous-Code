@@ -1,0 +1,5 @@
+# download_all_free_oreilly_books.py
+
+This code is originally from something I wrote and posted to [Reddit](https://www.reddit.com/r/Python/comments/56syaa/7_oreilly_python_books_for_free/d8n6597), all it does is download all the free [O'Reilly Media](http://www.oreilly.com/) ebooks from all catagories of ebooks (e.g. Programming, IoT, Data) and saves the ebooks in any format required PDF, Mobi or ePub. The ebooks will be saved in folders for their catagories and again in subfolders for the books name, if you have downloaded all the free ebooks and [O'Reilly Media](http://www.oreilly.com/) publish more free ebooks (in the future) this code can be re-run and will only download the new ebooks (it will also download ebooks that have been updated).
+
+[O'Reilly Media](http://www.oreilly.com/) are a good company that sell ebooks without DRM so if you are considering buying ebooks related to programming they are a good choice, this code will only download the ebooks that they offer for free.
