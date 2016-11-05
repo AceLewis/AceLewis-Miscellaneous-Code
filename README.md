@@ -5,3 +5,5 @@ A repository for me to host code that is not important enough to have its own re
 ### Code hosted in this repository
 
 * [download_all_free_oreilly_books.py](./download-all-free-oreilly-books/)
+* [Lenny Face](./Lenny Face/)
+* [The Maths of Secret Santa](./The Maths of Secret Santa/)
