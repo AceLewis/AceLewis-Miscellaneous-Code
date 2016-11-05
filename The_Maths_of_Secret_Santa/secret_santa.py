@@ -4,14 +4,14 @@ import matplotlib.pyplot as plt
 
 
 def random_picking(num_of_people):
-    "Returns if the random shuffling was bad"
+    "Returns if the random shuffling was successful"
     list_1 = np.arange(num_of_people)
     list_2 = np.random.permutation(num_of_people)
     return not np.any(list_1 == list_2)
 
 
 def percentage_bad_rand(num_of_people, num_of_times):
-    "Estimates the percentage of bad draws"
+    "Estimates the percentage of successful draws"
     times = 0
     for _ in range(num_of_times):
         times += random_picking(num_of_people)
