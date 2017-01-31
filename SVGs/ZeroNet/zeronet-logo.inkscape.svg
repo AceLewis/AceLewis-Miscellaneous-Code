@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,8 +35,8 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4738"
      showgrid="false"
      units="px"
@@ -44,10 +44,10 @@
      fit-margin-right="299.13998"
      fit-margin-top="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.16"
-     inkscape:cx="4036.202"
-     inkscape:cy="-76.337123"
-     inkscape:window-x="1672"
+     inkscape:zoom="0.04"
+     inkscape:cx="1069.3631"
+     inkscape:cy="1602.0523"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4710" />
@@ -129,20 +129,21 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     d="m 299.13998,1210.9999 0,-787.5999 L 1024.64,0 1749.44,421.3 1660.6096,781.35872 1024.74,405 651.33998,626 l 0,381.1999 z"
+     d="m 299.13998,1210.9999 0,-787.5999 L 1024.64,0 1750.14,420 1660.6096,781.35872 1024.74,405 651.33998,626 l 0,381.1999 z"
      id="path4732"
      inkscape:connector-curvature="0"
      style="fill:url(#d);fill-opacity:1;fill-rule:evenodd"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     d="m 1749.44,842.6 0,787.5999 -725.5,423.3 -724.80002,-421.3 110.45921,-347.022 614.34081,363.4221 373.3,-221.2001 0,-381 z"
+     d="m 1749.44,842.6 0,787.5999 -725.5,423.3 L 299.54,1634 409.59919,1285.1779 1023.94,1648.6 l 373.3,-221.2001 0,-381 z"
      id="path4734"
      inkscape:connector-curvature="0"
      style="fill:url(#e);fill-rule:evenodd"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     d="M 299.53998,1633.9999 1750.14,786.4 l 0,-366.4 -1451.00002,847.3999 z"
+     d="m 299.54,1634 1450.6,-847.6 0,-366.4 -1451.00002,847.3999 z"
      id="path4736"
      inkscape:connector-curvature="0"
-     style="fill:url(#f);fill-rule:evenodd" />
+     style="fill:url(#f);fill-rule:evenodd"
+     sodipodi:nodetypes="ccccc" />
 </svg>
